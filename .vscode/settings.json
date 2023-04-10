@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "limits": "cpp",
+        "array": "cpp",
+        "unordered_map": "cpp",
+        "initializer_list": "cpp",
+        "string_view": "cpp"
+    },
+    "python.analysis.typeCheckingMode": "basic"
+}
